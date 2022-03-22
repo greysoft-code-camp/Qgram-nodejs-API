@@ -1,4 +1,5 @@
 .env
 node_modules
 private.js
-tmp
+tmp/*
+!tmp/.gitkeep
